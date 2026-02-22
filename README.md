@@ -5,7 +5,6 @@ Notebook para hacer scraping de reseñas de Trustpilot de Trade Republic y expor
 ## Contenido
 
 - `trustpilot_scraping_traderepublic.ipynb`: notebook principal de scraping.
-- `traderepublic_reviews_p3_p10.csv`: salida de ejemplo (paginas 3 a 10).
 - `traderepublic_reviews_p1_p10.csv`: salida de ejemplo (paginas 1 a 10).
 - `requirements.txt`: dependencias minimas.
 
